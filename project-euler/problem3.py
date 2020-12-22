@@ -9,6 +9,7 @@ What is the largest prime factor of the number 600851475143?
 '''
 
 number  = 600851475143
+
 # Start with 3 since number is odd
 divisor = 3
 
